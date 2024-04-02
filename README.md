@@ -24,6 +24,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Experiment:
 
+ ![292678222-01c786a3-545e-4477-8423-2294e0641df5](https://github.com/HemapriyaOfficial/Single-server-infinite-capacity---Markov-Model/assets/147114275/d9bfbb4a-cb2f-4818-a93e-4f0bbfe6e0fb)
+![292678233-5665dc5a-ce4c-4b48-9ad4-2f62158179fe](https://github.com/HemapriyaOfficial/Single-server-infinite-capacity---Markov-Model/assets/147114275/2c12284b-37b3-49a7-b31a-4d981096dc79)
 
  
 ## Program
